@@ -1,0 +1,5 @@
+2025/06/02 17:26:12 Reading C:\Users\josep\AMPL\ampl.lic
+2025/06/02 17:26:12 Config cache has expired. Trying to update.
+2025/06/02 17:26:12 Cached configuration from https://ampl.com/amplkey/v0.1/amplkey.config.json at C:\Users\josep\Documents\GitHub\Sudoku-Solver\dist\sudoku\_internal\ampl_module_base\bin/amplkey.cfg
+2025/06/02 17:26:12 Obtained license from https://portal.ampl.com/v1/amplkey/renew
+2025/06/02 17:26:12 Wrote 1946 bytes atomically to C:\Users\josep\AMPL\ampl.lic

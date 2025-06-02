@@ -1,0 +1,11 @@
+f39473e8:1748899572:truncating:renew
+d531eda:27104_0:1748899580:starting:ampl(May 15 2025)
+c36c3c1:25728_0:1748899580:starting:ampl(May 15 2025)
+244ec9e:24872_0:1748899584:starting:ampl(May 15 2025)
+e7fe4fff:21816_0:1748899584:starting:ampl(May 15 2025)
+e2d5f2a8:20824_0:1748899585:starting:ampl(May 15 2025)
+1a655945:14588_0:1748899641:starting:ampl(May 15 2025)
+ea74eaa0:29184_0:1748899642:starting:gurobi(May  1 2025)
+1db7f6e6:14588_1:1748899642:solve:gurobi:s2523136:t0.062500
+4d5f2f9:14588_2:1748899643:solve_message:R3Vyb2JpIDEyLjAuMTogb3B0aW1hbCBzb2x1dGlvbgowIHNpbXBsZXggaXRlcmF0aW9ucwo=
+f29f250c:14588_3:1748899643:solution:gurobi:nv700:nc0

@@ -1,0 +1,15 @@
+ampl_module_base-20250515.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ampl_module_base-20250515.dist-info/METADATA,sha256=by8mZey3O7oofpmAg7mvWu_kzp_B3Gltzz6rIGirOxE,320
+ampl_module_base-20250515.dist-info/RECORD,,
+ampl_module_base-20250515.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ampl_module_base-20250515.dist-info/WHEEL,sha256=i9qQj8KaD8_YEW0Vc2oS56fKju23RkQ-FVz-QmzVakQ,98
+ampl_module_base-20250515.dist-info/top_level.txt,sha256=5gyujAW-BKLJA1GTumKDdDBaAk0voOyMbjP-TICCDvI,17
+ampl_module_base/__init__.py,sha256=cmZ5hQnwgUIK6irwlm10DBJhYAZwtrcuXF-bbf7_YME,116
+ampl_module_base/__pycache__/__init__.cpython-313.pyc,,
+ampl_module_base/bin/ampl.env,sha256=L0RntAf7B6i8RZQEjMNoF-RUkVJu7-tV0Bkc54gI2kM,270
+ampl_module_base/bin/ampl.exe,sha256=mBNZ7Z11ri5TMOi6dOp4i2ttdY_RFSC0TLipJoCPQRQ,1498112
+ampl_module_base/bin/ampl.lic,sha256=Lp8qAuRyuhDZDiHI626635qtopFX-a6vn1_0MT8Udv0,612
+ampl_module_base/bin/amplkey.exe,sha256=tEzVtPVg6dEY7mPNGklKj_Ggy7NhXyjWclYqi-c1upc,7775232
+ampl_module_base/bin/fingerprint.exe,sha256=k5ZSKRfJPeEPFEzslnClNDfEYZaM3yaTeUG7WOPVhgQ,107008
+ampl_module_base/bin/leasefingerprint.exe,sha256=AYocVF1iuwEmnhA62isa0B_kQfbQuIt4WQ2KzNc9Rns,22528
+ampl_module_base/bin/metadata.json,sha256=fD0fpUBVgolsU0hCc0pjhHFF1UnJMIfEG37SbldTbhA,233

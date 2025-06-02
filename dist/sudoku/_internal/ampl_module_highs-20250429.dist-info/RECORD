@@ -1,0 +1,15 @@
+ampl_module_highs-20250429.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ampl_module_highs-20250429.dist-info/METADATA,sha256=fTHfdpydYajrNSx4_FgtgObA_xwuhbVRlZsCnDvs4g0,322
+ampl_module_highs-20250429.dist-info/RECORD,,
+ampl_module_highs-20250429.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ampl_module_highs-20250429.dist-info/WHEEL,sha256=i9qQj8KaD8_YEW0Vc2oS56fKju23RkQ-FVz-QmzVakQ,98
+ampl_module_highs-20250429.dist-info/top_level.txt,sha256=ikoD6H_s80LR1sp5nxFCx1Q8oLIXHyCtP6WW9OLaC38,18
+ampl_module_highs/__init__.py,sha256=hgo9s3reKBYgkPH05MV2S1dLHG5G5Gvco4UZatQStzA,116
+ampl_module_highs/__pycache__/__init__.cpython-313.pyc,,
+ampl_module_highs/bin/cudalin.dll,sha256=85kqR_vIiQaptbxVXjrpPMlgu3L6xApIYxzpHNLGdUM,123904
+ampl_module_highs/bin/docs/CHANGES.highs.md,sha256=mDfnInLGZEt1BJRCTjPK1vKvg7uORbm_J5pa48S5MIY,7702
+ampl_module_highs/bin/docs/README.highs.txt,sha256=jldJXSJX0VMekSph5N_XD9Re7_j-NFs-QiwoQldcNzg,1233
+ampl_module_highs/bin/highs-cuda.dll,sha256=VzEi0ggQ81D2dNMhacpyE5Fq9l7iPUK1MM8uoT38ycg,4208128
+ampl_module_highs/bin/highs.dll,sha256=eJLfhrkBDaoG8Lb8g5yHRx6lGQDG2XiGGl7gXaBGSg8,4197376
+ampl_module_highs/bin/highs.exe,sha256=AnPryX-eZsv7c7H4st702IgpJ9gMQE2oaxAlO-ZOkVY,2656768
+ampl_module_highs/bin/metadata.json,sha256=3l2XbzOmQFpzMWWrc9uTSC0wh0VFCwOdkG-qtuH1ebs,167

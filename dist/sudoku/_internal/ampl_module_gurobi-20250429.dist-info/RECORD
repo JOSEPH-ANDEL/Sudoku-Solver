@@ -1,0 +1,16 @@
+ampl_module_gurobi-20250429.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ampl_module_gurobi-20250429.dist-info/METADATA,sha256=nBer1ob_uWrff0FiHgHncMXxXkBr44EGAbH5ubXT5Mg,324
+ampl_module_gurobi-20250429.dist-info/RECORD,,
+ampl_module_gurobi-20250429.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ampl_module_gurobi-20250429.dist-info/WHEEL,sha256=i9qQj8KaD8_YEW0Vc2oS56fKju23RkQ-FVz-QmzVakQ,98
+ampl_module_gurobi-20250429.dist-info/top_level.txt,sha256=NaphYXgbiAGgoL9w3s2jB_eM_fdHfoY7sclLuqVMH6Q,19
+ampl_module_gurobi/__init__.py,sha256=hgo9s3reKBYgkPH05MV2S1dLHG5G5Gvco4UZatQStzA,116
+ampl_module_gurobi/__pycache__/__init__.cpython-313.pyc,,
+ampl_module_gurobi/bin/docs/CHANGES.gurobi.md,sha256=edNKqYGbpFALbf7IMYK5rI4M6RehlLa0QideXTxzT5s,11769
+ampl_module_gurobi/bin/docs/CHANGES.gurobiasl.md,sha256=jJKQk6CdB2fH2wSTLtVHK8FFBL-HiU9HrTtl9aPOXMg,20011
+ampl_module_gurobi/bin/docs/README.gurobi.txt,sha256=Vp9an2u038kkNoFVK7KNhysHvOHUp-oLoj-Qd2Ct58Y,2512
+ampl_module_gurobi/bin/docs/README.gurobiasl.txt,sha256=Wz2M5K89umWCOoxTEL9xLL2qtNmAYcAAHyx0RPR5dGM,6611
+ampl_module_gurobi/bin/gurobi.exe,sha256=ydPtjRJnfAmIW0WsgZ5VWmBr2EUuiBRrqOReopn11Xc,2523136
+ampl_module_gurobi/bin/gurobi120.dll,sha256=35EBm_T4iJzFelC6CGURgjPuJ8c2RwZVCxnkizuK-k0,37772248
+ampl_module_gurobi/bin/gurobiasl.exe,sha256=S5DKybWDm7dwDLqC31Y2MZsjZXSaw7b632pBShkCSI8,617984
+ampl_module_gurobi/bin/metadata.json,sha256=2Onnl_9oNQBAZuBwu6KS9-QnNuxzHT0xOkn8mjo5nI0,216
